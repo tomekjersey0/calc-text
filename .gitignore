@@ -1,3 +1,2 @@
-
-*.kicad_prl
-*-backups/
+dxf
+gerbers
