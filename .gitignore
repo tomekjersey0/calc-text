@@ -1,2 +1,8 @@
 dxf
 gerbers
+*.kicad_prl
+*-backups/
+*.rpt
+~*.lck
+#auto_saved_files#
+*.bak
