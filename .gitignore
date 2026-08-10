@@ -4,5 +4,6 @@ gerbers
 *-backups/
 *.rpt
 ~*.lck
-#auto_saved_files#
+\#auto_saved_files#
 *.bak
+fp-info-cache
