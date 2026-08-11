@@ -7,3 +7,4 @@ gerbers
 \#auto_saved_files#
 *.bak
 fp-info-cache
+*-bak
