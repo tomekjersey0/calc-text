@@ -34,7 +34,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/PCAL9535A.pdf"
 			(at -12.7 22.86 0)
 			(effects
 				(font
@@ -720,7 +720,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://files.seeedstudio.com/products/114993120/Wio-E5-LE%20module%20datasheet_v1.0.pdf"
 			(at 0 0 0)
 			(effects
 				(font
