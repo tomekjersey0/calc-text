@@ -2802,7 +2802,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 74.93 121.92 0)
 			(effects
 				(font
@@ -2998,7 +2998,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 74.93 109.22 0)
 			(effects
 				(font
@@ -3194,7 +3194,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 189.23 121.92 0)
 			(effects
 				(font
@@ -3390,7 +3390,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 170.18 71.12 0)
 			(effects
 				(font
@@ -3586,7 +3586,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 74.93 83.82 0)
 			(effects
 				(font
@@ -3782,7 +3782,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 113.03 71.12 0)
 			(effects
 				(font
@@ -3978,7 +3978,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 93.98 71.12 0)
 			(effects
 				(font
@@ -4174,7 +4174,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 189.23 71.12 0)
 			(effects
 				(font
@@ -4370,7 +4370,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 151.13 45.72 0)
 			(effects
 				(font
@@ -4566,7 +4566,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 151.13 109.22 0)
 			(effects
 				(font
@@ -4762,7 +4762,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 113.03 121.92 0)
 			(effects
 				(font
@@ -4958,7 +4958,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 74.93 71.12 0)
 			(effects
 				(font
@@ -5154,7 +5154,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 151.13 58.42 0)
 			(effects
 				(font
@@ -5350,7 +5350,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 132.08 71.12 0)
 			(effects
 				(font
@@ -5546,7 +5546,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 132.08 121.92 0)
 			(effects
 				(font
@@ -5742,7 +5742,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 189.23 58.42 0)
 			(effects
 				(font
@@ -5938,7 +5938,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 113.03 83.82 0)
 			(effects
 				(font
@@ -6134,7 +6134,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 74.93 45.72 0)
 			(effects
 				(font
@@ -6330,7 +6330,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 132.08 96.52 0)
 			(effects
 				(font
@@ -6526,7 +6526,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 93.98 58.42 0)
 			(effects
 				(font
@@ -6722,7 +6722,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 113.03 96.52 0)
 			(effects
 				(font
@@ -6918,7 +6918,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 132.08 58.42 0)
 			(effects
 				(font
@@ -7114,7 +7114,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 93.98 109.22 0)
 			(effects
 				(font
@@ -7310,7 +7310,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 170.18 58.42 0)
 			(effects
 				(font
@@ -7506,7 +7506,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 113.03 58.42 0)
 			(effects
 				(font
@@ -7702,7 +7702,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 132.08 109.22 0)
 			(effects
 				(font
@@ -7898,7 +7898,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 132.08 83.82 0)
 			(effects
 				(font
@@ -8094,7 +8094,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 93.98 45.72 0)
 			(effects
 				(font
@@ -8290,7 +8290,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 189.23 83.82 0)
 			(effects
 				(font
@@ -8486,7 +8486,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 113.03 109.22 0)
 			(effects
 				(font
@@ -8682,7 +8682,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 170.18 121.92 0)
 			(effects
 				(font
@@ -8878,7 +8878,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 170.18 96.52 0)
 			(effects
 				(font
@@ -9074,7 +9074,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 151.13 121.92 0)
 			(effects
 				(font
@@ -9270,7 +9270,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 170.18 83.82 0)
 			(effects
 				(font
@@ -9466,7 +9466,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 170.18 109.22 0)
 			(effects
 				(font
@@ -9662,7 +9662,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 93.98 121.92 0)
 			(effects
 				(font
@@ -9858,7 +9858,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 74.93 58.42 0)
 			(effects
 				(font
@@ -10054,7 +10054,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 93.98 83.82 0)
 			(effects
 				(font
@@ -10250,7 +10250,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 93.98 96.52 0)
 			(effects
 				(font
@@ -10446,7 +10446,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 151.13 71.12 0)
 			(effects
 				(font
@@ -10642,7 +10642,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 170.18 45.72 0)
 			(effects
 				(font
@@ -10838,7 +10838,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 113.03 45.72 0)
 			(effects
 				(font
@@ -11034,7 +11034,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 74.93 96.52 0)
 			(effects
 				(font
@@ -11230,7 +11230,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 151.13 83.82 0)
 			(effects
 				(font
@@ -11426,7 +11426,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 151.13 96.52 0)
 			(effects
 				(font
@@ -11622,7 +11622,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 132.08 45.72 0)
 			(effects
 				(font
@@ -11818,7 +11818,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 189.23 96.52 0)
 			(effects
 				(font
@@ -12014,7 +12014,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 189.23 45.72 0)
 			(effects
 				(font
@@ -12210,7 +12210,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CalcText:keypad_trace_button"
+		(property "Footprint" ""
 			(at 189.23 109.22 0)
 			(effects
 				(font
