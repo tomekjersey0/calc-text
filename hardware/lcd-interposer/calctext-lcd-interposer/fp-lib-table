@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "calctext-lcd-interposer")(type "KiCad")(uri "${KIPRJMOD}/calctext-lcd-interposer.pretty")(options "")(descr ""))
-)

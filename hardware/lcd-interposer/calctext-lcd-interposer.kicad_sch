@@ -3888,7 +3888,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "calctext-lcd-interposer:Hirose_FH34SRJ-10S-0.5SH"
+		(property "Footprint" "CalcText_Shared:Hirose_FH34SRJ-10S-0.5SH"
 			(at 143.51 90.17 0)
 			(effects
 				(font
@@ -3983,7 +3983,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "calctext-lcd-interposer:Hirose_FH34SRJ-24S-0.5SH"
+		(property "Footprint" "CalcText_Shared:Hirose_FH34SRJ-24S-0.5SH"
 			(at 76.2 92.71 0)
 			(effects
 				(font
