@@ -1,0 +1,39 @@
+﻿Category,Board / Use,Reference,Item,Manufacturer,MPN / Exact spec,Qty per CalcText,Qty for 2,Owned?,Qty to Buy,Notes
+Core electronics,Mainboard,U1,LoRa MCU module,Seeed Studio,Wio-E5-LE,1,2,No,2,DigiKey cart. Buy exactly 2; no spare currently included.
+Power,Mainboard,U2,Boost converter,Texas Instruments,TPS61299DRLR,1,2,No,4,DigiKey cart: 2 required + 2 spares. Non-A variant is locked.
+Keypad,Mainboard,U3,16-bit I/O expander,NXP,"PCAL9535APW,118",1,2,No,3,DigiKey cart: 2 required + 1 spare.
+Power,Mainboard,L1,1 uH power inductor,INPAQ,WIP252010P-1R0ML,1,2,No,20,LCSC C315715. 20-piece MOQ; only 2 required for two units.
+RF,Mainboard,L2,0 ohm series link,YAGEO,RC0402JR-070RL,1,2,No,10,DigiKey cart: 2 required; buying 10. Keep designator L2.
+Power,Mainboard,"C1,C2",10 uF ceramic capacitor,Samsung Electro-Mechanics,"CL21B106KOQNNNE; 10uF ±10%, 16V, X7R, 0805",2,4,Yes (20),0,Owned stock.
+Decoupling,Mainboard,"C3,C5,C6",100 nF ceramic capacitor,KEMET,"C0603C104K5RACTU; 0.1uF ±10%, 50V, X7R, 0603",3,6,Yes (75),0,Owned stock.
+Power,Mainboard,C4,4.7 uF ceramic capacitor,Samsung Electro-Mechanics,"CL10B475KQ8NNNC; 4.7uF ±10%, 6.3V, X7R, 0603",1,2,Yes (20),0,Owned stock.
+RF,Mainboard,"C7,C8",Pi-network shunt capacitor footprints,—,"0402, DNP",0 fitted,0 fitted,N/A,0,DNP in Rev A.
+Keypad / control,Mainboard,R1-R3,100 kOhm resistor,Stackpole Electronics,RMCF0603FT100K,3,6,Yes (50),0,Owned stock.
+Keypad / control,Mainboard,R4-R6,10 kOhm resistor,YAGEO,RC0603FR-0710KL,3,6,Yes (100),0,Owned stock.
+Display connection,Mainboard + LCD interposer,Mainboard J1; Interposer J2,10-pin FFC connector,Hirose,FH34SRJ-10S-0.5SH(99),2,4,No,5,"DigiKey cart: 4 required + 1 spare. 0.5mm pitch, for 0.3mm FFC."
+Display connection,LCD interposer,J1,24-pin display FPC connector,Hirose,FH34SRJ-24S-0.5SH(99),1,2,No,3,"DigiKey cart: 2 required + 1 spare. 0.5mm pitch, for ~0.30mm display FPC."
+Display decoupling,LCD interposer,C1-C8,1 uF ceramic capacitor,TDK,"C1005X5R1E105K050BC; 1uF ±10%, 25V, X5R, 0402",8,16,No,25,DigiKey cart: 16 required; buying 25.
+Display,Mechanical / electrical,LCD1,2.9in reflective monochrome TFT display,Hicenda,HLCD290TB; ST7305; 168x384; black/white; 24-pin 0.5mm FPC,1,2,No,2,Hicenda has stock. Direct Jersey shipment. Corrected Jersey-address PI still pending.
+RF,Mainboard / enclosure,AE1,868 MHz wire antenna,Owned wire,~86.3mm quarter-wave; insulated solid-core wire ~0.6mm diameter,~86.3 mm,~172.6 mm,Yes,0,Owned wire is sufficient.
+Power / wiring,Mainboard / enclosure,"BAT+, BAT-",Battery hookup wire,Owned wire,Insulated solid-core wire ~0.6mm diameter,As needed,As needed,Yes,0,Use existing wire stock.
+PCB fabrication,Mainboard,PCB,CalcText Rev A mainboard PCB,JLCPCB,"0.8mm, 2-layer, 1oz copper, green soldermask, white silkscreen, HASL with lead",1,2,No,5,JLCPCB minimum/order quantity 5. Current checkout total £3.14 before Ship2Me forwarding.
+Donor hardware,Enclosure / keypad,DONOR1,Compatible donor calculator,Casio / eBay seller,Casio FX-83GTX Scientific Calculator - NO COVER - BLACK,1,2,Yes (1 donor),1,"One donor already owned; buy one additional donor on eBay. Item £14.99, free UK postage, then Ship2Me."
+Assembly consumable,Assembly,—,No-clean tack flux,Chip Quik,SMD491-5M,Shared,Shared,No,1,"DigiKey cart. No-clean, halogen-free tack flux."
+Test equipment,Bring-up / debugging,—,Digital multimeter,FLIR Extech,MN35,Shared,Shared,No,1,DigiKey cart. User currently owns no multimeter.
+Assembly consumable,Assembly,—,Solder,Owned stock,SW-0650G; 0.6mm; Sn0.7Cu; 2% flux; 50g,Shared,Shared,Yes,0,Owned.
+Assembly tool,Assembly,—,Soldering station,FEITA,T100A / T12 station,Shared,Shared,Yes,0,Owned.
+Programming tool,Firmware / bring-up,—,ST-LINK programmer,STMicroelectronics / clone,ST-LINK V2 compatible; SWDIO/SWCLK/NRST/SWO/3V3/GND,Shared,Shared,Yes,0,Owned.
+HOLD - optional consumable,Power,BT1,AAA alkaline battery,TBD local,Fresh AAA alkaline,1,2,1 on hand,HOLD / maybe,Fresh AAA batteries are not part of the current funding request. Use the battery already on hand for initial work; add/fund fresh batteries later only if actually required.
+HOLD - optional consumable,Assembly / cleanup,—,99% IPA / electronics cleaner,TBD local,99% isopropyl alcohol or suitable electronics cleaner,Shared,Shared,No,HOLD / outside grant,Not part of the current Macondo funding request. Source locally later if needed for cleanup; do not delay review/submission over this.
+HOLD - staged mechanical,LCD interposer,PCB,Final LCD interposer PCB fabrication,TBD,Final geometry/dimensions TBD after physical display fit,1,2,No,HOLD / TBD,"DO NOT order yet. Electronic design is complete, but final board geometry is intentionally set from the real HLCD290TB FPC landing point after the display arrives."
+HOLD - staged mechanical,Display link,FFC,10-way FFC cable,TBD,"10-way, 0.5mm pitch, ~0.3mm thick; length TBD",1,2,No,HOLD / TBD,DO NOT order yet. Measure actual mainboard-to-interposer gap after physical display/interposer placement; choose length so cable runs nearly straight.
+HOLD - staged mechanical,Display retention,FOAM,PORON / low-force retention foam,TBD,Thickness and pad form TBD after measuring actual rear LCD gap,TBD,TBD,No,HOLD / TBD,DO NOT order yet. Measure real installed display gap/compression first; avoid stressing LCD.
+Procurement total,DigiKey order,—,DigiKey cart total,DigiKey,Current checkout total: $97.83,—,—,No,1 order,"COST EVIDENCE ONLY - not a separate physical BOM item. Direct to Jersey; FedEx International Priority FREE; shipping $0.00. Covers Wio x2, TPS61299 x4, PCAL9535A x3, Hirose 10-pin x5, Hirose 24-pin x3, TDK 1uF x25, 0ohm 0402 x10, Chip Quik flux x1, Extech MN35 x1."
+Procurement total,LCSC order,—,LCSC inductor order total,LCSC,Current checkout total: $7.91,—,—,No,1 order,COST EVIDENCE ONLY. Merchandise $0.45 + Global Direct Standard Line $4.46 + handling $3.00. Ships to Ship2Me UK.
+Procurement total,LCSC forwarding,—,Ship2Me forwarding for LCSC,Ship2Me,Small packet: £5.95,—,—,No,1 delivery,COST EVIDENCE ONLY. 25x15x10cm small-packet service.
+Procurement total,JLCPCB order,—,JLCPCB mainboard order total,JLCPCB,Current checkout grand total: £3.14,—,—,No,1 order,COST EVIDENCE ONLY. Merchandise £1.50 + shipping £1.12 + customs duties/taxes £0.52. Ships to Ship2Me UK.
+Procurement total,JLCPCB forwarding,—,Ship2Me forwarding for JLCPCB,Ship2Me,Small packet: £5.95,—,—,No,1 delivery,COST EVIDENCE ONLY. 25x15x10cm small-packet service.
+Procurement total,Hicenda order,—,Hicenda display order total,Hicenda,$60.90 quoted total,—,—,No,1 order,COST EVIDENCE ONLY. 2x HLCD290TB at $5.95 each + DHL $49 = $60.90 direct to Jersey. Corrected Jersey-address PI pending.
+Procurement total,eBay order,—,Second donor calculator order total,eBay / RN Online,£14.99,—,—,No,1 order,COST EVIDENCE ONLY. UK postage free; ships to Ship2Me.
+Procurement total,eBay forwarding,—,Ship2Me forwarding for donor calculator,Ship2Me,Small packet: £5.95,—,—,No,1 delivery,COST EVIDENCE ONLY. Donor calculator fits the 25x15x10cm small-packet tier.
+Procurement summary,Current first-stage funding stack,—,Current mixed-currency total,—,$166.64 + £35.98,—,—,—,—,"Includes DigiKey, LCSC + forwarding, JLCPCB + forwarding, Hicenda, eBay donor + forwarding. Approximate GBP conversion should be recalculated at submission time. Excludes all HOLD items, including batteries, IPA/cleaner, interposer PCB, FFC and PORON."
