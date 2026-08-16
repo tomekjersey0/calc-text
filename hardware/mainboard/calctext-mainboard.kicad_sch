@@ -5696,7 +5696,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
 			(at 170.18 68.58 0)
 			(effects
 				(font
@@ -5705,7 +5705,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10%, 50V, X7R MLCC, 0603"
 			(at 170.18 68.58 0)
 			(effects
 				(font
@@ -5832,6 +5832,42 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
+			(at 170.18 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 170.18 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 170.18 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C0603C104K5RACTU"
+			(at 170.18 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "KEMET"
 			(at 170.18 68.58 0)
 			(effects
 				(font
@@ -5892,7 +5928,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/jp/ProductSearch?apply_filter=1&category=rchip&series=rc&subcategory=thick_film_general_purpose&target=target_pn"
 			(at 30.48 68.58 0)
 			(effects
 				(font
@@ -5901,7 +5937,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ ±1%, 0.1W thick-film resistor, 0603"
 			(at 30.48 68.58 0)
 			(effects
 				(font
@@ -6036,6 +6072,42 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 30.48 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 30.48 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0603FR-0710KL"
+			(at 30.48 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 30.48 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "06cf5907-3079-44c7-82b7-fd4dd131d2db")
 		)
@@ -6086,7 +6158,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.inpaqgp.com/product-co1.php?k=FQRLxbTp802Qq1lkJ3%2Fm3g%3D%3D"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C315715.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=QlVYVQZSRwBbVl1fQ1kMUgBVRVEPAVIHRlVZVlJQFAQxVlNeQVleV1NWR1hdXjsOAxUeFF5JWBYZEEoEHg8JSQcJGk4%3D"
 			(at 72.39 36.83 0)
 			(effects
 				(font
@@ -6230,7 +6302,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Manufacturer"
+		(property "Manufacturer" "INPAQ"
 			(at 72.39 36.83 90)
 			(effects
 				(font
@@ -6248,7 +6320,7 @@
 				(hide yes)
 			)
 		)
-		(property "DCR_Max " "54mΩ"
+		(property "DCR_Max" "54mΩ"
 			(at 72.39 36.83 90)
 			(effects
 				(font
@@ -6257,7 +6329,7 @@
 				(hide yes)
 			)
 		)
-		(property "Isat " "3.15A min / 3.5A typ"
+		(property "Isat" "3.15A min / 3.5A typ"
 			(at 72.39 36.83 90)
 			(effects
 				(font
@@ -6266,7 +6338,25 @@
 				(hide yes)
 			)
 		)
-		(property "Irms " "2.7A min / 3.0A typ"
+		(property "Irms" "2.7A min / 3.0A typ"
+			(at 72.39 36.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 72.39 36.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
 			(at 72.39 36.83 90)
 			(effects
 				(font
@@ -6295,7 +6385,7 @@
 		(at 22.86 36.83 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6335,6 +6425,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 22.86 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 22.86 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
 			(at 22.86 36.83 0)
 			(effects
 				(font
@@ -6426,7 +6534,7 @@
 		(at 200.66 72.39 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "17662dc7-322e-45a7-b9f3-e3a6b4708f92")
@@ -6593,6 +6701,24 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
+			(at 200.66 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 200.66 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
 			(at 200.66 72.39 90)
 			(effects
 				(font
@@ -6794,6 +6920,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 26.67 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 26.67 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "calc text rev1"
 				(path "/08c1ddf9-51d7-4052-91fe-864978b9f390"
@@ -6839,7 +6983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
 			(at 83.82 68.58 0)
 			(effects
 				(font
@@ -6848,7 +6992,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10%, 50V, X7R MLCC, 0603"
 			(at 83.82 68.58 0)
 			(effects
 				(font
@@ -6975,6 +7119,42 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
+			(at 83.82 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 83.82 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 83.82 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C0603C104K5RACTU"
+			(at 83.82 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "KEMET"
 			(at 83.82 68.58 0)
 			(effects
 				(font
@@ -7179,6 +7359,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 26.67 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 26.67 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "calc text rev1"
 				(path "/08c1ddf9-51d7-4052-91fe-864978b9f390"
@@ -7357,7 +7555,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/jp/ProductSearch?apply_filter=1&category=rchip&series=rc&subcategory=thick_film_general_purpose&target=target_pn"
 			(at 48.26 86.36 0)
 			(effects
 				(font
@@ -7366,7 +7564,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ ±1%, 0.1W thick-film resistor, 0603"
 			(at 48.26 86.36 0)
 			(effects
 				(font
@@ -7493,6 +7691,42 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
+			(at 48.26 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 48.26 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 48.26 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0603FR-0710KL"
+			(at 48.26 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
 			(at 48.26 86.36 0)
 			(effects
 				(font
@@ -7627,7 +7861,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Low-voltage 16-bit I²C GPIO expander with interrupt and Agile I/O, TSSOP-24"
 			(at 92.71 100.33 0)
 			(effects
 				(font
@@ -7754,6 +7988,42 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
+			(at 92.71 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 92.71 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 92.71 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PCAL9535APW,118"
+			(at 92.71 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "NXP Semiconductors"
 			(at 92.71 100.33 0)
 			(effects
 				(font
@@ -7980,7 +8250,7 @@
 		(at 200.66 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "387968c5-c5d6-49ac-a05f-faba270d57a1")
@@ -8155,6 +8425,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 200.66 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 200.66 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a566dddd-8ca4-4cc1-af3b-ed7a8d59d428")
 		)
@@ -8270,7 +8558,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/jp/ProductSearch?apply_filter=1&category=rchip&series=rc&subcategory=thick_film_general_purpose&target=target_pn"
 			(at 48.26 68.58 0)
 			(effects
 				(font
@@ -8279,7 +8567,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ ±1%, 0.1W thick-film resistor, 0603"
 			(at 48.26 68.58 0)
 			(effects
 				(font
@@ -8414,6 +8702,42 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 48.26 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 48.26 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0603FR-0710KL"
+			(at 48.26 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 48.26 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c78dd26f-10b7-48ab-a069-d7c9f699f97a")
 		)
@@ -8434,7 +8758,7 @@
 		(at 200.66 64.77 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "405eaab0-2f33-4b78-a78e-f9faf1dbb80f")
@@ -8609,6 +8933,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 200.66 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 200.66 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "86ce2bd5-42bf-44f2-8646-6d7938be204f")
 		)
@@ -8692,7 +9034,7 @@
 		(at 172.72 30.48 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -8868,6 +9210,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 172.72 30.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 172.72 30.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "faf3f27e-f0ea-49b1-a261-91b067f50fbf")
 		)
@@ -9020,7 +9380,7 @@
 		(at 22.86 45.72 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -9060,6 +9420,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 22.86 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 22.86 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
 			(at 22.86 45.72 0)
 			(effects
 				(font
@@ -9181,7 +9559,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://yageogroup.com/component-documentation/download/specsheet/RC0402JR-070RL"
 			(at 147.32 133.35 0)
 			(effects
 				(font
@@ -9190,8 +9568,44 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" "0Ω jumper, 1/16W, thick-film, 0402"
 			(at 147.32 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 147.32 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 147.32 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-070RL"
+			(at 147.32 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 147.32 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9461,6 +9875,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 46.99 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 46.99 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "calc text rev1"
 				(path "/08c1ddf9-51d7-4052-91fe-864978b9f390"
@@ -9673,7 +10105,7 @@
 		(at 200.66 87.63 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "9f8bc583-02c4-4bfa-a4a8-2239e555013b")
@@ -9840,6 +10272,24 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
+			(at 200.66 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 200.66 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
 			(at 200.66 87.63 90)
 			(effects
 				(font
@@ -10239,6 +10689,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 46.99 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 46.99 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "calc text rev1"
 				(path "/08c1ddf9-51d7-4052-91fe-864978b9f390"
@@ -10267,7 +10735,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LCD_FFC"
+		(property "Value" "FH34SRJ-10S-0.5SH"
 			(at 120.65 36.8299 0)
 			(effects
 				(font
@@ -10285,7 +10753,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.hirose.com/en/product/document?clcode=CL0580-1251-5-99&productname=FH34SRJ-10S-0.5SH(99)&series=FH34SRJ&documenttype=SpecSheet&lang=en&documentid=0000414526"
 			(at 123.19 34.29 0)
 			(effects
 				(font
@@ -10294,7 +10762,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "10-position 0.5 mm pitch back-flip ZIF FFC/FPC receptacle, 1.0 mm height, for 0.3 mm FFC/FPC"
 			(at 123.19 34.29 0)
 			(effects
 				(font
@@ -10421,6 +10889,42 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
+			(at 123.19 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 123.19 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 123.19 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "FH34SRJ-10S-0.5SH(99)"
+			(at 123.19 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Hirose Electric"
 			(at 123.19 34.29 0)
 			(effects
 				(font
@@ -10505,7 +11009,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B475KQ8NQN.do"
 			(at 182.88 68.58 0)
 			(effects
 				(font
@@ -10514,7 +11018,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "4.7uF ±10%, 6.3V, X7R MLCC, 0603"
 			(at 182.88 68.58 0)
 			(effects
 				(font
@@ -10641,6 +11145,42 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
+			(at 182.88 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 182.88 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 182.88 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B475KQ8NNNC"
+			(at 182.88 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 182.88 68.58 0)
 			(effects
 				(font
@@ -10845,6 +11385,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 46.99 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 46.99 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "calc text rev1"
 				(path "/08c1ddf9-51d7-4052-91fe-864978b9f390"
@@ -10891,7 +11449,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://seielect.com/products/ProductSearch.asp?keyWord=thick+film"
 			(at 153.67 40.64 0)
 			(effects
 				(font
@@ -10900,7 +11458,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "100kΩ ±1%, 0.1W thick-film resistor, 0603"
 			(at 153.67 40.64 0)
 			(effects
 				(font
@@ -11035,6 +11593,42 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 153.67 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 153.67 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RMCF0603FT100K"
+			(at 153.67 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Stackpole Electronics"
+			(at 153.67 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "166820af-a8fa-4d4a-8113-a6315bb8deb8")
 		)
@@ -11055,7 +11649,7 @@
 		(at 200.66 96.52 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "a7c12d73-93f6-4fea-b682-cf15c569f0f1")
@@ -11230,6 +11824,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 200.66 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 200.66 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4444eeb5-92f8-4df5-9be2-99bf7227578c")
 		)
@@ -11247,7 +11859,7 @@
 		(at 175.26 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11289,6 +11901,24 @@
 			)
 		)
 		(property "Description" "Antenna"
+			(at 175.26 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 175.26 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
 			(at 175.26 128.27 0)
 			(effects
 				(font
@@ -11346,7 +11976,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL21B106KOQNNN.do"
 			(at 99.06 38.1 0)
 			(effects
 				(font
@@ -11355,7 +11985,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "10uF ±10%, 16V, X7R MLCC, 0805"
 			(at 99.06 38.1 0)
 			(effects
 				(font
@@ -11490,6 +12120,42 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 99.06 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 99.06 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL21B106KOQNNNE"
+			(at 99.06 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 99.06 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "89c843ff-f737-4fb4-b29e-73ac259e5f8a")
 		)
@@ -11576,7 +12242,7 @@
 		(at 200.66 104.14 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "bac17842-5630-4bdf-aa74-5b29223ac7bb")
@@ -11751,6 +12417,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 200.66 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 200.66 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2fe0b884-9f8f-45ff-9aaa-c81cefab8265")
 		)
@@ -11800,7 +12484,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
 			(at 223.52 40.64 0)
 			(effects
 				(font
@@ -11809,7 +12493,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10%, 50V, X7R MLCC, 0603"
 			(at 223.52 40.64 0)
 			(effects
 				(font
@@ -11936,6 +12620,42 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
+			(at 223.52 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 223.52 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 223.52 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C0603C104K5RACTU"
+			(at 223.52 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "KEMET"
 			(at 223.52 40.64 0)
 			(effects
 				(font
@@ -12014,6 +12734,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 156.21 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 156.21 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7ed17682-60cd-4edf-ab89-4ec4361e4c08")
 		)
@@ -12083,6 +12821,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 137.16 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 137.16 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0511c7b8-5a05-4769-b72b-e7c2c7526d8a")
 		)
@@ -12135,7 +12891,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://seielect.com/products/ProductSearch.asp?keyWord=thick+film"
 			(at 172.72 39.37 0)
 			(effects
 				(font
@@ -12144,7 +12900,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "100kΩ ±1%, 0.1W thick-film resistor, 0603"
 			(at 172.72 39.37 0)
 			(effects
 				(font
@@ -12271,6 +13027,42 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
+			(at 172.72 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 172.72 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 172.72 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RMCF0603FT100K"
+			(at 172.72 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Stackpole Electronics"
 			(at 172.72 39.37 0)
 			(effects
 				(font
@@ -12526,7 +13318,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps61299.pdf"
 			(at 85.09 38.1 0)
 			(effects
 				(font
@@ -12535,7 +13327,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "95 nA quiescent-current synchronous boost converter, 1.2 A average input current limit, SOT-5X3 (DRL-6)"
 			(at 85.09 38.1 0)
 			(effects
 				(font
@@ -12662,6 +13454,42 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
+			(at 85.09 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 85.09 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 85.09 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TPS61299DRLR"
+			(at 85.09 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
 			(at 85.09 38.1 0)
 			(effects
 				(font
@@ -12725,7 +13553,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Wio-E5-LE:Wio-E5-LE"
+		(property "Footprint" "CalcText:Wio-E5-LE"
 			(at 151.13 90.17 0)
 			(effects
 				(font
@@ -12743,7 +13571,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "STM32WLE5JC LoRa module, 863–928 MHz, 12x12 mm"
+		(property "Description" "Low-power LoRa wireless module based on STM32WLE5JC"
 			(at 151.13 90.17 0)
 			(effects
 				(font
@@ -12870,6 +13698,42 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
+			(at 151.13 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Wio-E5-LE"
+			(at 151.13 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Seeed Studio"
+			(at 151.13 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Seeed Studio"
+			(at 151.13 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" "114993120"
 			(at 151.13 90.17 0)
 			(effects
 				(font
@@ -13075,7 +13939,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL21B106KOQNNN.do"
 			(at 63.5 38.1 0)
 			(effects
 				(font
@@ -13084,7 +13948,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "10uF ±10%, 16V, X7R MLCC, 0805"
 			(at 63.5 38.1 0)
 			(effects
 				(font
@@ -13211,6 +14075,42 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
+			(at 63.5 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 63.5 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 63.5 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL21B106KOQNNNE"
+			(at 63.5 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 63.5 38.1 0)
 			(effects
 				(font
@@ -13334,7 +14234,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://seielect.com/products/ProductSearch.asp?keyWord=thick+film"
 			(at 215.9 34.29 0)
 			(effects
 				(font
@@ -13343,7 +14243,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "100kΩ ±1%, 0.1W thick-film resistor, 0603"
 			(at 215.9 34.29 0)
 			(effects
 				(font
@@ -13470,6 +14370,42 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
+			(at 215.9 34.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 215.9 34.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 215.9 34.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RMCF0603FT100K"
+			(at 215.9 34.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Stackpole Electronics"
 			(at 215.9 34.29 90)
 			(effects
 				(font
@@ -13732,6 +14668,24 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
+			(at 26.67 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 26.67 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
 			(at 26.67 172.72 0)
 			(effects
 				(font

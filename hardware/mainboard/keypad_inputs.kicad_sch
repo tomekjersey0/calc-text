@@ -2779,7 +2779,7 @@
 		(at 69.85 121.92 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -2955,6 +2955,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 69.85 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 69.85 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "79252df6-2c2d-4727-b876-1402c7ea1264")
 		)
@@ -2975,7 +2993,7 @@
 		(at 69.85 109.22 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3151,6 +3169,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 69.85 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 69.85 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e1cb8020-6b66-4314-8436-14f4d44ee229")
 		)
@@ -3171,7 +3207,7 @@
 		(at 184.15 121.92 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3347,6 +3383,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 184.15 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 184.15 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c3140fc5-844c-4190-9f16-bb2f26a3755e")
 		)
@@ -3367,7 +3421,7 @@
 		(at 165.1 71.12 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3543,6 +3597,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 165.1 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 165.1 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2bdc9750-dbb5-4109-94e3-c9051863167a")
 		)
@@ -3563,7 +3635,7 @@
 		(at 69.85 83.82 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3739,6 +3811,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 69.85 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 69.85 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4e558abd-147d-4d74-a8b0-a46427b0970b")
 		)
@@ -3759,7 +3849,7 @@
 		(at 107.95 71.12 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3935,6 +4025,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 107.95 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 107.95 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "af20f300-3709-45c6-86e3-4e50f570c43c")
 		)
@@ -3955,7 +4063,7 @@
 		(at 88.9 71.12 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4131,6 +4239,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 88.9 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 88.9 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e794b7ec-9c43-412e-939f-404269a4ecb9")
 		)
@@ -4151,7 +4277,7 @@
 		(at 184.15 71.12 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4327,6 +4453,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 184.15 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 184.15 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "02f5a511-d6d8-43b8-8b57-fef1cbeca398")
 		)
@@ -4347,7 +4491,7 @@
 		(at 146.05 45.72 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4523,6 +4667,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 146.05 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 146.05 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1ba48e0f-7646-4ca7-923c-8ba887840ee5")
 		)
@@ -4543,7 +4705,7 @@
 		(at 146.05 109.22 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4719,6 +4881,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 146.05 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 146.05 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "27ff526f-347e-46ed-a58b-33a2d585725e")
 		)
@@ -4739,7 +4919,7 @@
 		(at 107.95 121.92 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4915,6 +5095,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 107.95 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 107.95 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "41008973-d854-446f-b087-a1761e6576e5")
 		)
@@ -4935,7 +5133,7 @@
 		(at 69.85 71.12 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5111,6 +5309,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 69.85 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 69.85 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "628bd346-5983-46b9-81bc-a06a456373ea")
 		)
@@ -5131,7 +5347,7 @@
 		(at 146.05 58.42 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5307,6 +5523,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 146.05 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 146.05 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "000e2ff3-76a0-4880-9ecb-ec1ff5db0639")
 		)
@@ -5327,7 +5561,7 @@
 		(at 127 71.12 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5503,6 +5737,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 127 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 127 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "db89068c-80c8-42dd-b216-8ef4b39cc39a")
 		)
@@ -5523,7 +5775,7 @@
 		(at 127 121.92 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5699,6 +5951,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 127 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 127 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f1ec516e-6c3d-4c21-9900-079eab41fc73")
 		)
@@ -5719,7 +5989,7 @@
 		(at 184.15 58.42 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5895,6 +6165,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 184.15 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 184.15 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c25b94d6-ae88-467f-a425-5193a0165b5f")
 		)
@@ -5915,7 +6203,7 @@
 		(at 107.95 83.82 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6091,6 +6379,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 107.95 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 107.95 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "733760ef-ff41-4e11-9ec7-c6c4b744c046")
 		)
@@ -6111,7 +6417,7 @@
 		(at 69.85 45.72 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6287,6 +6593,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 69.85 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 69.85 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d7426446-f0b5-4888-890f-f5ee2cf9dd44")
 		)
@@ -6307,7 +6631,7 @@
 		(at 127 96.52 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6483,6 +6807,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 127 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 127 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5eca79bc-2954-4327-b9b2-3cfd133a9c0a")
 		)
@@ -6503,7 +6845,7 @@
 		(at 88.9 58.42 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6679,6 +7021,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 88.9 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 88.9 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "06447d8f-717d-4a1e-a926-280328d57a38")
 		)
@@ -6699,7 +7059,7 @@
 		(at 107.95 96.52 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6875,6 +7235,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 107.95 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 107.95 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "33744340-9d3a-48eb-a671-8e96ee69a8ac")
 		)
@@ -6895,7 +7273,7 @@
 		(at 127 58.42 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -7071,6 +7449,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 127 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 127 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "61a62e28-77d0-4777-9f4b-b49f342698fb")
 		)
@@ -7091,7 +7487,7 @@
 		(at 88.9 109.22 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -7267,6 +7663,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 88.9 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 88.9 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "adb5254c-8b42-4dd4-beb1-18e7cbf5a4d3")
 		)
@@ -7287,7 +7701,7 @@
 		(at 165.1 58.42 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -7463,6 +7877,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 165.1 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 165.1 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "04c1f549-3f19-41bf-afaa-9964976734b1")
 		)
@@ -7483,7 +7915,7 @@
 		(at 107.95 58.42 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -7659,6 +8091,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 107.95 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 107.95 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ef79a97d-c500-46b9-83ae-10ad306fbde7")
 		)
@@ -7679,7 +8129,7 @@
 		(at 127 109.22 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -7855,6 +8305,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 127 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 127 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f0fcd5c1-308a-43b6-9329-506b1124fb92")
 		)
@@ -7875,7 +8343,7 @@
 		(at 127 83.82 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -8051,6 +8519,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 127 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 127 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "076aca01-37e0-4707-9955-ca9bc5273d89")
 		)
@@ -8071,7 +8557,7 @@
 		(at 88.9 45.72 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -8247,6 +8733,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 88.9 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 88.9 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dfd331d7-abf3-4ca7-b46a-6f5c7cbe2d4e")
 		)
@@ -8267,7 +8771,7 @@
 		(at 184.15 83.82 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -8443,6 +8947,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 184.15 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 184.15 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "23ee3eb2-ff85-477f-a28c-956a9b0bc8ff")
 		)
@@ -8463,7 +8985,7 @@
 		(at 107.95 109.22 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -8639,6 +9161,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 107.95 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 107.95 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bb545aaf-b400-420c-8462-96c78b4804c1")
 		)
@@ -8659,7 +9199,7 @@
 		(at 165.1 121.92 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -8835,6 +9375,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 165.1 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 165.1 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e58e8d95-d87f-42b2-a557-f848eac867c4")
 		)
@@ -8855,7 +9413,7 @@
 		(at 165.1 96.52 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -9031,6 +9589,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 165.1 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 165.1 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ab08a07b-f895-4b33-bf49-52deb394b2a2")
 		)
@@ -9051,7 +9627,7 @@
 		(at 146.05 121.92 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -9227,6 +9803,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 146.05 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 146.05 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "02227bf3-a048-4383-a10b-864335b47a3e")
 		)
@@ -9247,7 +9841,7 @@
 		(at 165.1 83.82 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -9423,6 +10017,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 165.1 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 165.1 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a9608b97-6f6a-4ead-88b0-92b2e19b7fcd")
 		)
@@ -9443,7 +10055,7 @@
 		(at 165.1 109.22 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -9619,6 +10231,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 165.1 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 165.1 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e4ce855a-ab66-4423-a57d-f796e4f58d5d")
 		)
@@ -9639,7 +10269,7 @@
 		(at 88.9 121.92 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -9815,6 +10445,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 88.9 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 88.9 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d6487d66-f1ef-4100-9409-2dbf6773bd4c")
 		)
@@ -9835,7 +10483,7 @@
 		(at 69.85 58.42 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10011,6 +10659,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 69.85 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 69.85 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e96edc20-97f7-43d3-82cc-4c74268b1350")
 		)
@@ -10031,7 +10697,7 @@
 		(at 88.9 83.82 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10207,6 +10873,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 88.9 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 88.9 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c5324bed-1f7a-488e-9624-7d2139dbc057")
 		)
@@ -10227,7 +10911,7 @@
 		(at 88.9 96.52 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10403,6 +11087,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 88.9 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 88.9 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "446d43c2-e6e1-4e20-8a0a-92fa351a5695")
 		)
@@ -10423,7 +11125,7 @@
 		(at 146.05 71.12 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10599,6 +11301,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 146.05 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 146.05 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6625e40c-4a15-4665-819f-6159687bcd88")
 		)
@@ -10619,7 +11339,7 @@
 		(at 165.1 45.72 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10795,6 +11515,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 165.1 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 165.1 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e69f678b-8361-44b8-afe2-ef20eeca61a8")
 		)
@@ -10815,7 +11553,7 @@
 		(at 107.95 45.72 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10991,6 +11729,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 107.95 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 107.95 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0dad79b8-017c-4c49-84cf-f71c1c77b467")
 		)
@@ -11011,7 +11767,7 @@
 		(at 69.85 96.52 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11187,6 +11943,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 69.85 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 69.85 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4839d964-c5c4-4d76-8dec-ab01f44bf9d7")
 		)
@@ -11207,7 +11981,7 @@
 		(at 146.05 83.82 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11383,6 +12157,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 146.05 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 146.05 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6ae7ea82-73fa-4427-904a-a6851c2f4e01")
 		)
@@ -11403,7 +12195,7 @@
 		(at 146.05 96.52 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11579,6 +12371,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 146.05 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 146.05 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7b166e6d-1186-4535-8b01-36c2cd978c9d")
 		)
@@ -11599,7 +12409,7 @@
 		(at 127 45.72 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11775,6 +12585,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 127 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 127 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9969f856-2b6e-41dd-9ea8-cc67e4cedc27")
 		)
@@ -11795,7 +12623,7 @@
 		(at 184.15 96.52 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11971,6 +12799,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 184.15 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 184.15 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "83243a19-a527-4062-8219-bef4eb690093")
 		)
@@ -11991,7 +12837,7 @@
 		(at 184.15 45.72 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12167,6 +13013,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier" ""
+			(at 184.15 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
+			(at 184.15 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "90eb3989-5c50-4a9e-8792-b6ac4f436288")
 		)
@@ -12187,7 +13051,7 @@
 		(at 184.15 109.22 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12355,6 +13219,24 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
+			(at 184.15 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 184.15 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier SKU" ""
 			(at 184.15 109.22 90)
 			(effects
 				(font

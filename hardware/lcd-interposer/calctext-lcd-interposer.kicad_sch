@@ -2469,7 +2469,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://product.tdk.com/en/search/capacitor/ceramic/mlcc/info?part_no=C1005X5R1E105K050BC"
 			(at 140.97 124.46 0)
 			(effects
 				(font
@@ -2478,7 +2478,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1uF ±10%, 25V, X5R MLCC, 0402"
+			(at 140.97 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1005X5R1E105K050BC"
+			(at 140.97 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
 			(at 140.97 124.46 0)
 			(effects
 				(font
@@ -3073,7 +3091,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://product.tdk.com/en/search/capacitor/ceramic/mlcc/info?part_no=C1005X5R1E105K050BC"
 			(at 102.87 106.68 0)
 			(effects
 				(font
@@ -3082,7 +3100,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1uF ±10%, 25V, X5R MLCC, 0402"
+			(at 102.87 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1005X5R1E105K050BC"
+			(at 102.87 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
 			(at 102.87 106.68 0)
 			(effects
 				(font
@@ -3277,7 +3313,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://product.tdk.com/en/search/capacitor/ceramic/mlcc/info?part_no=C1005X5R1E105K050BC"
 			(at 128.27 124.46 0)
 			(effects
 				(font
@@ -3286,7 +3322,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1uF ±10%, 25V, X5R MLCC, 0402"
+			(at 128.27 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1005X5R1E105K050BC"
+			(at 128.27 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
 			(at 128.27 124.46 0)
 			(effects
 				(font
@@ -3347,7 +3401,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://product.tdk.com/en/search/capacitor/ceramic/mlcc/info?part_no=C1005X5R1E105K050BC"
 			(at 114.3 106.68 0)
 			(effects
 				(font
@@ -3356,7 +3410,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1uF ±10%, 25V, X5R MLCC, 0402"
+			(at 114.3 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1005X5R1E105K050BC"
+			(at 114.3 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
 			(at 114.3 106.68 0)
 			(effects
 				(font
@@ -3417,7 +3489,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://product.tdk.com/en/search/capacitor/ceramic/mlcc/info?part_no=C1005X5R1E105K050BC"
 			(at 102.87 81.28 0)
 			(effects
 				(font
@@ -3426,7 +3498,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1uF ±10%, 25V, X5R MLCC, 0402"
+			(at 102.87 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1005X5R1E105K050BC"
+			(at 102.87 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
 			(at 102.87 81.28 0)
 			(effects
 				(font
@@ -3554,7 +3644,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://product.tdk.com/en/search/capacitor/ceramic/mlcc/info?part_no=C1005X5R1E105K050BC"
 			(at 115.57 124.46 0)
 			(effects
 				(font
@@ -3563,7 +3653,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1uF ±10%, 25V, X5R MLCC, 0402"
+			(at 115.57 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1005X5R1E105K050BC"
+			(at 115.57 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
 			(at 115.57 124.46 0)
 			(effects
 				(font
@@ -3691,7 +3799,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://product.tdk.com/en/search/capacitor/ceramic/mlcc/info?part_no=C1005X5R1E105K050BC"
 			(at 153.67 124.46 0)
 			(effects
 				(font
@@ -3700,7 +3808,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1uF ±10%, 25V, X5R MLCC, 0402"
+			(at 153.67 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1005X5R1E105K050BC"
+			(at 153.67 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
 			(at 153.67 124.46 0)
 			(effects
 				(font
@@ -3828,7 +3954,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://product.tdk.com/en/search/capacitor/ceramic/mlcc/info?part_no=C1005X5R1E105K050BC"
 			(at 102.87 124.46 0)
 			(effects
 				(font
@@ -3837,7 +3963,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1uF ±10%, 25V, X5R MLCC, 0402"
+			(at 102.87 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1005X5R1E105K050BC"
+			(at 102.87 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
 			(at 102.87 124.46 0)
 			(effects
 				(font
@@ -3879,7 +4023,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MAINBOARD_FFC"
+		(property "Value" "FH34SRJ-10S-0.5SH"
 			(at 146.05 92.7099 0)
 			(effects
 				(font
@@ -3897,7 +4041,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.hirose.com/en/product/document?clcode=CL0580-1251-5-99&productname=FH34SRJ-10S-0.5SH(99)&series=FH34SRJ&documenttype=SpecSheet&lang=en&documentid=0000414526"
 			(at 143.51 90.17 0)
 			(effects
 				(font
@@ -3906,7 +4050,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "10-position 0.5 mm pitch back-flip ZIF FFC/FPC receptacle, 1.0 mm height, for 0.3 mm FFC/FPC"
+			(at 143.51 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "FH34SRJ-10S-0.5SH(99)"
+			(at 143.51 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Hirose Electric"
 			(at 143.51 90.17 0)
 			(effects
 				(font
@@ -3974,7 +4136,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "HICENDA_FPC"
+		(property "Value" "FH34SRJ-24S-0.5SH"
 			(at 73.66 95.2499 0)
 			(effects
 				(font
@@ -3992,7 +4154,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.hirose.com/en/product/document?clcode=CL0580-1255-6-99&productname=FH34SRJ-24S-0.5SH(99)&series=FH34SRJ&documenttype=SpecSheet&lang=en&documentid=0000414526"
 			(at 76.2 92.71 0)
 			(effects
 				(font
@@ -4001,7 +4163,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x24, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "24-position 0.5 mm pitch ZIF FFC/FPC receptacle, 1.0 mm height, for 0.3 mm FFC/FPC"
+			(at 76.2 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "FH34SRJ-24S-0.5SH(99)"
+			(at 76.2 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Hirose Electric"
 			(at 76.2 92.71 0)
 			(effects
 				(font
