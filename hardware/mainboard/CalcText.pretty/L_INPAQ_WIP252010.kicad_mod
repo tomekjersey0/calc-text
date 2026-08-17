@@ -124,4 +124,15 @@
 		(uuid "7a616627-e492-4cdb-a63d-777734327637")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/../3d/INPAQ-WIP252010P-1R0ML.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

@@ -4,7 +4,7 @@
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 -0.5 0)
+		(at 0.3 -1.9 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "26d1dd87-98e2-4063-8d1b-21f9d9b681e9")

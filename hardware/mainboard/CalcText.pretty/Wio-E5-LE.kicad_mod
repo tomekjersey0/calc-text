@@ -4,7 +4,7 @@
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 -0.5 0)
+		(at -0.1 -8.2 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "4844f0b8-1644-4140-9398-008866f11be8")
@@ -376,4 +376,15 @@
 		(uuid "adc19c3b-886e-42b6-b0b9-db57aadbf189")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/../3d/Wio-E5-LE.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

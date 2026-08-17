@@ -296,4 +296,15 @@
 		(uuid "3f36248c-3f92-41d9-9efb-497b21e241c1")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/../3d/FH34SRJ-24S-0.5SH.stp"
+		(offset
+			(xyz 0 -1 0.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -180 180)
+		)
+	)
 )
