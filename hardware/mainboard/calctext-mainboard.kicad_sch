@@ -13571,7 +13571,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Low-power LoRa wireless module based on STM32WLE5JC"
+		(property "Description" "STM32WLE5JC LoRa module, 863–928 MHz, 12x12 mm"
 			(at 151.13 90.17 0)
 			(effects
 				(font
