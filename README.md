@@ -1,14 +1,16 @@
 # CalcText
 
-CalcText is a LoRa radio communication device designed to be powered by a single AAA battery and fully concealed inside a standard CASIO fx-83GT X calculator form factor.
+CalcText is a battery-powered LoRa communicator built into the shell and keypad of a standard CASIO fx-83GT X calculator. It is designed to preserve the calculator's original external form factor while integrating a custom radio, display, keypad interface and power system, all running from a single AAA battery.
+
+This project is being developed for [Hack Club's Macondo](https://macondo.hackclub.com/projects/16515).
 
 ![CalcText Rev A mainboard 3D render](docs/images/mainboard-3d.png)
 
 ## Overview
 
-The project functions as a unique gadget, answering the question: is it possible to message my friend across the room on a calculator instead of a phone?
+The project started from a simple question: is it possible to message a friend using a calculator instead of a phone?
 
-There were many times when I was bored in class and that idea came to mind. This project is my attempt to actually make it possible while keeping the calculator looking normal from the outside.
+The calculator form factor is primarily an engineering constraint. CalcText explores low-power embedded design, RF, custom PCB design and mechanical integration within the very limited space of an existing calculator enclosure, while reusing its original keypad and external form.
 
 ## Hardware
 
@@ -87,11 +89,11 @@ The calculator's ON key is handled separately from the 7 × 7 matrix and is also
 
 ## Mechanical Integration
 
-The original calculator enclosure is one of the main constraints of the project. The goal is that none of the added electronics are visible from outside the calculator.
+The original calculator enclosure is one of the main constraints of the project. The aim is to integrate the new electronics while preserving the calculator's original external form and making use of the limited internal space available.
 
 Several internal modifications are still required to accommodate the new hardware, including expanding the available LCD area for the larger replacement display.
 
-The antenna is intended to run vertically through otherwise unused space along the side of the enclosure, hidden from view and kept as far from other conductive material as reasonably possible.
+The antenna is intended to run vertically through otherwise unused space along the side of the enclosure, kept as far from other conductive material as reasonably possible.
 
 The original AAA battery holder is retained, with the new mainboard positioned to use the existing battery compartment and approximately the same lead locations.
 
