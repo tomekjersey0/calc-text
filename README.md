@@ -2,10 +2,17 @@
 
 ## What is CalcText?
 
-- One or two sentences:
-  - what it does
-  - what physical form it uses
-  - why you wanted to build it
+CalcText is a wireless, radio-powered messaging device, powered by a single triple-A battery, and fully enclosed in a standard calculator shell.
+On the outside, it is indistinguishable from a normal calculator that you would use in secondary school, but on the inside, it hides the ability to
+go against what it was originally designed for. It allows two users to send messages to each other completely via low powered radio, requiring no external infrastructure.
+
+## Why I built it?
+
+I oftentimes sat in a relaxed maths lesson with a calculator in hand, and had a friend across the room that I wanted to talk to.
+Using my phone was routinely not the option, and disturbing the class by raising my voice was neither. The question rose to me as if begging
+to be solved: what if I can type a message into my calculator, and my friend can pick it up on his? 
+
+For a long time this idea was no more than a dream, but with age I have grown in self-efficacy, and decided to have a go at making it real.
 
 ![CalcText Rev A mainboard 3D render](docs/images/mainboard-3d.png)
 
