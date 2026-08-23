@@ -2,118 +2,91 @@
 
 ## What is CalcText?
 
-CalcText is a wireless, radio-powered messaging device, powered by a single triple-A battery, and fully enclosed in a standard calculator shell.
-On the outside, it is indistinguishable from a normal calculator that you would use in secondary school, but on the inside, it hides the ability to
-go against what it was originally designed for. It allows two users to send messages to each other completely via low powered radio, requiring no external infrastructure.
+CalcText is a wireless messaging device enclosed inside a scientific calculator, powered by a single AAA battery. Two units can message each other directly over LoRa, not requiring Wi-Fi, mobile data, or any kind of external infrastructure. The idea came to me from wanting to message a friend who sat far away from me in my maths class without using my phone or shouting. Despite being a little odd, the idea stuck with me.
 
-## Why I built it?
+<img src="docs/images/mainboard-3d.png" alt="CalcText Rev A mainboard 3D render" width="300">
 
-I oftentimes sat in a relaxed maths lesson with a calculator in hand, and had a friend across the room that I wanted to talk to.
-Using my phone was routinely not the option, and disturbing the class by raising my voice was neither. The question rose to me as if begging
-to be solved: what if I can type a message into my calculator, and my friend can pick it up on his? 
+*CalcText Rev A mainboard 3D render.*
 
-For a long time this idea was no more than a dream, but with age I have grown in self-efficacy, and decided to have a go at making it real.
+## How it works
 
-![CalcText Rev A mainboard 3D render](docs/images/mainboard-3d.png)
+CalcText replaces all of the internal calculator electronics, including the PCB and LCD screen, whilst making use of some of the existing mechanical features.
 
-## Design goals
-- Preserve calculator form factor
-- Battery powered
-- LoRa communication
-- Reuse original keypad
-- Fit everything inside the existing enclosure
+CalcText makes use of several electronic components.
 
-## Hardware overview
-Briefly introduce the major parts:
-- Wio-E5-LE
-- TPS61299
-- PCAL9535A
-- HLCD290TB
-- custom mainboard
-- LCD interposer
+| Part | Purpose |
+| --- | --- |
+| Wio-E5-LE | MCU and LoRa radio module |
+| TPS61299 | Boosts AAA voltage to 3.3 V |
+| PCAL9535A | GPIO expander, scans original keypad matrix for input |
+| HLCD290TB reflective display | Replacement display for calculator |
+| Interposer board | Connects display to mainboard |
+| ~90 mm wire antenna | Used for 868 MHz LoRa |
 
-## Mainboard
-Explain:
-- replaces original calculator PCB
-- doubles as keypad contact board
-- power circuitry
-- MCU/radio
-- GPIO expander
-- LCD connection
-- antenna connection
+<img src="docs/images/original-keypad-assembly.jpg" alt="Original calculator keypad and PCB" width="300">
 
-![Rev A mainboard PCB layout](docs/images/mainboard-layout.png)
+*Original calculator keypad and PCB assembly.*
 
-## Power
-Explain:
-- single AAA
-- approximate battery voltage range
-- boost to 3.3 V
-- why that architecture was chosen
+CalcText makes use of an existing elastomeric keypad that was part of the original calculator. It gives the user a way to interact with the contacts on the PCB. The old contact pattern is therefore replicated on the replacement PCB.
 
-## Keypad
-Explain:
-- original rubber keypad/carbon pills
-- your custom exposed contacts
-- 7×7 matrix
-- GPIO expander
-- separate ON/wake key
-- any Rev A limitations such as ghosting
 
-![Original calculator keypad and PCB](docs/images/original-keypad-assembly.jpg)
+<img src="docs/images/mainboard-layout.png" alt="Rev A mainboard PCB layout" width="350">
 
-## Display
-Explain:
-- HLCD290TB
-- resolution/type
-- why you chose it
-- physical constraint caused by its FPC
+*Rev A mainboard PCB layout.*
 
-## LCD interposer
-Explain:
-- what it electrically does
-- 24-pin display connection → 10-pin mainboard connection
-- electrical design is complete
-- final board outline/connector placement waits for the real LCD
-- reason: physical FPC landing position/bend
+A direct FPC connection isn't viable from the reflective display to the mainboard, so an intermediary interposer board is used, to be located on the rear of the display.
 
-![LCD interposer 3D render](docs/images/lcd-interposer-3d.png)
+<img src="docs/images/lcd-interposer-3d.png" alt="LCD interposer 3D render" width="250">
 
-## RF / antenna
-Explain:
-- 868 MHz LoRa
-- wire quarter-wave antenna
-- approximate length
-- where you intend to place it
+*LCD interposer 3D render.*
 
-## Mechanical integration
-Explain:
-- fitting everything inside the calculator
-- acrylic/mainboard fit test
-- display thickness / enclosure modifications
-- PORON retention pads
-- anything whose exact dimensions wait for physical assembly
+## Fitting it inside the calculator
 
-![Acrylic mainboard fit test inside calculator enclosure](docs/images/mechanical-fit-test.jpg)
+The main challenge is getting everything to fit inside the original enclosure.
+
+| Part to fit | Issue | Resolution |
+| --- | --- | --- |
+| Mainboard | There are mounting holes, thickness, and outline constraints | Produced acrylic fit test using school equipment and measured original PCB thickness with calipers |
+| Display | Larger footprint and thinner than original | Sections of the enclosure can be removed, and PORON foam can secure it |
+| Interposer | Unknown FPC landing position due to bend once display is installed | Order screen first and design interposer size based on measured landing position |
+| Antenna | Needs sufficient distance from metal and components to ensure good transmission quality | Keep antenna routed down long edge through visible gap, allow it to exit the PCB as far from the display and battery as possible |
+
+
+<img src="docs/images/mechanical-fit-test.jpg" alt="Acrylic mainboard fit test inside calculator enclosure" width="300">
+
+*Acrylic mainboard fit test inside the calculator enclosure + Location of battery.*
 
 ## Current status
-- mainboard schematic complete
-- mainboard PCB complete
-- DRC clean
-- interposer electrically complete
-- procurement/BOM complete
-- awaiting funding/build
 
-## Bill of materials
-- `bom.csv`
-- Covers two CalcText units
-- Don't duplicate the entire BOM in the README
+| Element | Status |
+| --- | --- |
+| Mainboard schematic | Complete |
+| Mainboard layout | Complete |
+| Interposer schematic | Complete |
+| Interposer layout | Pending display measurements |
+| BOM | Complete |
+| Physical build | Pending components |
+| Funding | Pending review |
 
 ## Next steps
-1. Order parts/mainboards/displays
-2. Assemble and bring up mainboard
-3. Fit LCD physically
-4. Finalise interposer geometry
-5. Order interposer/FFC
-6. Firmware
-7. Full assembly/testing
+
+1. Submit project for review
+2. Order all currently finalised parts
+3. Take necessary measurements
+4. Complete and order interposer
+5. Fully assemble 2 CalcTexts
+6. Write firmware
+7. Test messaging
+8. Tune antenna if necessary
+9. Project complete
+
+## BOM
+
+The full BOM can be found in [`bom.csv`](bom.csv).
+This BOM covers *two* individual CalcText units.
+
+## Credits
+
+This project was enabled by [Hack Club, Macondo](https://macondo.hackclub.com).
+
+You can access the project's full development journal [here](https://macondo.hackclub.com/projects/16515).
